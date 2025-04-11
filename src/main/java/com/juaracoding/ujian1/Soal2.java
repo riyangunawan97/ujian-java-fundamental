@@ -1,4 +1,4 @@
-package com.juaracoding.riyanujian1jf.ujian1;
+package com.juaracoding.ujian1;
 
 import java.util.Scanner;
 
